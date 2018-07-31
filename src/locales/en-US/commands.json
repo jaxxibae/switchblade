@@ -347,5 +347,13 @@
     "commandDescription": "Turns your text into ASCII art",
     "commandUsage": "<text>",
     "noText": "You need to give me some text to asciify"
+  },
+  "scramble": {
+    "invalidType": "You need to give me a valid cube type",
+    "commandDescription": "Generates scrambles for cube puzzles",
+    "commandUsage": "[amount] [type] [seed]",
+    "availableTypes": "Available types",
+    "hereIsYourScramble": "Here's your scramble!",
+    "hereIsYourScramble_plural": "Here are your scrambles!"
   }
 }

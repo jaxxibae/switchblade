@@ -51,7 +51,7 @@
     "mongoose": "^5.1.5",
     "node-opus": "^0.3.0",
     "node-spotify-api": "^1.0.7",
-    "request": "^2.87.0",
+    "request": "^2.88.0",
     "rss-parser": "latest",
     "samp-query": "latest",
     "snekfetch": "^4.0.4",

@@ -39,7 +39,7 @@
     "erlpack": "github:discordapp/erlpack",
     "figlet": "^1.2.0",
     "gifencoder": "^1.1.0",
-    "googleapis": "^31.0.2",
+    "googleapis": "^49.0.0",
     "i18next": "^11.3.2",
     "i18next-node-fs-backend": "^1.0.0",
     "icecast-parser": "^3.0.0",
